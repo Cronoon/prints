@@ -6,8 +6,8 @@ body {
 }
 
 header {
-  background: #ddd;
-  color: #fff;
+ /* background: #ddd;*/
+  color: #222;
   text-align: center;
   padding: 1.5rem;
 }
@@ -57,8 +57,9 @@ main {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #ddd;
+  background: #333;
   color: #fff;
   margin-top: 2rem;
 }
+
 
